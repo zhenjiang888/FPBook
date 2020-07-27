@@ -1,0 +1,67 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{第一部分\hspace {1em}函数式语言的基础}{1}{part.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}基本概念}{2}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}为什么要学习函数式程序设计}{2}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}什么是函数式程序设计}{3}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}函数和类型}{3}{subsection.1.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.2}函数复合}{4}{subsection.1.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.3}表达式}{4}{subsection.1.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Haskell程序设计环境}{4}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}基本数据类型}{6}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}布尔类型：\ {\tt Bool}\ }{6}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}递归数据类型}{7}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}规约模型及程序效率}{8}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}抽象数据类型}{9}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}副作用的抽象}{10}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}应用1: 并行计算}{11}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}应用2: 数据分析}{12}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{第二部分\hspace {1em}函数式程序的演算基础}{13}{part.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {9}基本概念}{14}{chapter.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {10}序列类型上的程序演算理论}{15}{chapter.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {11}递归函数的结构化}{16}{chapter.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {12}演算规则及其开发}{17}{chapter.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {13}应用1: 最优化问题}{18}{chapter.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {14}应用2: 并行自动化}{19}{chapter.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{第三部分\hspace {1em}函数式算法的设计}{20}{part.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {15}基本概念}{21}{chapter.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {16}最小自由数问题}{22}{chapter.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {17}数独游戏}{23}{chapter.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{第四部分\hspace {1em}多范式程序语言中的函数式思维}{24}{part.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {18}简介}{25}{chapter.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {19}OCaml}{26}{chapter.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {20}Scala}{27}{chapter.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {21}Javascript}{28}{chapter.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {22}Python}{29}{chapter.22}
