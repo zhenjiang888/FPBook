@@ -65,3 +65,41 @@
 \contentsline {chapter}{\numberline {21}Javascript}{28}{chapter.21}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {22}Python}{29}{chapter.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{第五部分\hspace {1em}Appendix}{30}{part.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {23}Hudak}{31}{chapter.23}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {24}Nots on Bird's Book}{32}{chapter.24}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{第六部分\hspace {1em}Thompson}{33}{part.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {25}基本类型及定义}{34}{chapter.25}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {25.1}布尔类型}{34}{section.25.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {25.2}整数类型：\ {\tt Integer}\ 和\ {\tt Int}\ }{35}{section.25.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {25.3}字符类型：\ {\tt Char}\ }{36}{section.25.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {25.4}字符串类型：\ {\tt String}\ }{37}{section.25.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {25.5}浮点数类型：\ {\tt Float}\ }{38}{section.25.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {26}函数式程序设计与开发}{39}{chapter.26}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {26.1}函数式程序设计}{39}{section.26.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {27}组合类型}{40}{chapter.27}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {27.1}组类型}{40}{section.27.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {27.2}代数类型}{41}{section.27.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {27.2.1}枚举类型}{41}{subsection.27.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {27.2.2}积类型}{42}{subsection.27.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {27.2.3}和类型}{42}{subsection.27.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {27.3}列表}{43}{section.27.3}
